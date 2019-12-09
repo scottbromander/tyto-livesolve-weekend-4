@@ -1,0 +1,15 @@
+
+img {
+    max-width: 100%;
+    width: 150px;
+}
+
+.cell {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
